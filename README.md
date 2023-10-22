@@ -1,5 +1,5 @@
-# T2A2 Webserver
-## Theo Marentes (ID: 14444)
+# Flask Blog API
+## T2A2 Webserver
 
 <br> 
 
